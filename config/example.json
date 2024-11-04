@@ -1,0 +1,19 @@
+{
+    "telegram": {
+        "bot_token": "YOUR_BOT_TOKEN",
+        "allowed_users": [
+
+        ]
+    },
+    "google_translate":
+    {
+        "language": "YOUR_LANGUAGE",
+        "message": "YOUR_REPLY_TITLE"
+    },
+    "api_ninjas": {
+        "api_ninjas_token": "YOUR_API_NINJAS_TOKEN",
+        "api_ninjas_categories": [
+
+        ]       
+    }
+}
